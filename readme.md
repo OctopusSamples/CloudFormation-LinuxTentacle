@@ -1,0 +1,1 @@
+Sample AWS CloudFormation template that provisions an EC2 instance running Ubuntu 18.04.  This template also includes bash script to download, install, and configure Tentacle for Linux and .NET core 2.1.  The bash script will also create a new polling Tentacle and register it with your Octopus Deploy server.
